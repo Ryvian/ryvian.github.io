@@ -3,14 +3,13 @@ layout: about
 title: about
 permalink: /
 # subtitle:  "Email: <img src=\"assets/img/em.jpg\" width=\"180\" style=\"display: inline-block; vertical-align: middle; margin-left: 5px;\"/>"
-subtitle: "Email: zhangzyhf AT gmail DOT com"
+subtitle: "Email: {first-name}.zhang2 AT wisc.edu"
 
 profile:
   align: right
   image: prof_me.jpg
   image_circular: false # crops the image to make it circular
   # more_info: "email: <img src=\"assets/img/em.jpg\" width=\"70\" style=\"display: inline-block; vertical-align: middle; margin-left: 5px;\"/>"
-  # more_info: "Email: zhangzyhf AT gmail.com"
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -28,6 +27,11 @@ latest_posts:
 
 My research interests include systems reliability, privacy, and security. I am especially interested in utilizing emerging technologies such as neuro-symbolic methods to mitigate systems reliability and security issues.
 
-My current work focuses on **software privacy policy compliance checking** and **C to Rust machine translation**. I have also worked on **web security** and **usability of Rust**.
+My current work focuses on **software privacy policy compliance checking** and **C to Rust machine translation**. I have also worked on **web security** ([WWW' 22][1], [USENIX Security '20][2]) and **usability of Rust** ([ICSE '22][3], [CCS '20 demo][4]).
 
 I received my MSc of Computer Sciences from University of Wisconsin-Madison and my Bachelor of Computer Science & Technology from University of Science and Technology of China.
+
+[1]: https://dl.acm.org/doi/abs/10.1145/3485447.3512230
+[2]: https://www.usenix.org/conference/usenixsecurity20/presentation/zhu
+[3]: https://dl.acm.org/doi/abs/10.1145/3510003.3510164
+[4]: https://dl.acm.org/doi/abs/10.1145/3372297.3420024
