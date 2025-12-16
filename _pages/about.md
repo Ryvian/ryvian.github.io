@@ -29,7 +29,7 @@ My research interests include systems reliability, software engineering, and pri
 
 My current work focuses on **software privacy policy compliance checking** and **C to Rust machine translation**. I have also worked on **web security** ([WWW' 22][1], [USENIX Security '20][2]) and **usability of Rust** ([ICSE '22][3], [CCS '20 demo][4]).
 
-I received my MSc of Computer Sciences from University of Wisconsin-Madison and my Bachelor of Computer Science & Technology from University of Science and Technology of China.
+I received my MS in Computer Sciences at University of Wisconsin-Madison and my BE in Computer Science & Technology at University of Science and Technology of China.
 
 [1]: https://dl.acm.org/doi/abs/10.1145/3485447.3512230
 [2]: https://www.usenix.org/conference/usenixsecurity20/presentation/zhu
