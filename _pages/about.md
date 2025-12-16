@@ -25,7 +25,7 @@ latest_posts:
 
 ---
 
-My research interests include systems reliability, privacy, and security. I am especially interested in utilizing emerging technologies such as neuro-symbolic methods to mitigate systems reliability and security issues.
+My research interests include systems reliability, software engineering, and privacy & security. I am especially interested in utilizing emerging technologies such as neuro-symbolic methods to mitigate systems reliability and security issues.
 
 My current work focuses on **software privacy policy compliance checking** and **C to Rust machine translation**. I have also worked on **web security** ([WWW' 22][1], [USENIX Security '20][2]) and **usability of Rust** ([ICSE '22][3], [CCS '20 demo][4]).
 
