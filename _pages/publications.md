@@ -10,7 +10,8 @@ nav_order: 3
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
-(* = equal contribution)
+
+(\* = equal contribution)
 {% include bib_search.liquid %}
 
 <div class="publications">

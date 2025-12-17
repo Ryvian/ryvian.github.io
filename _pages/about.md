@@ -22,7 +22,6 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-
 ---
 
 My research interests include systems reliability, software engineering, and privacy & security. I am especially interested in utilizing emerging technologies such as neuro-symbolic methods to mitigate systems reliability and security issues.
